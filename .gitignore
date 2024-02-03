@@ -1,0 +1,8 @@
+/createTable.sql
+/delete_truncate_drop.sql
+/extractFun.sql
+/insert_update.sql
+/select_where.sql
+/timestamp.sql
+/union_one.sql
+/union_two.sql
