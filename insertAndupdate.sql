@@ -22,8 +22,8 @@ SELECT * FROM customer
 -- SET colname = val1, colname = val2
 -- where id = val
 
--- UPDATE customer
--- SET "Name" = 'Muskan', "Age" = 22
--- WHERE "ID" = 1;
+UPDATE customer
+SET "Name" = 'Muskan', "Age" = 22
+WHERE "ID" = 1;
 
 -- SELECT * FROM customer
